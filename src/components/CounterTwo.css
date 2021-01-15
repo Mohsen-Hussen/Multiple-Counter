@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+.cnt-des {
+    font-family: 'Abel', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    color: #fff;
+    margin: 10px 0;
+}
+.btn-des {
+    padding: 10px;
+    margin: 10px;
+    width: 180px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #00bc74;
+    border: 1px solid #051937;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
